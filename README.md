@@ -1,0 +1,1 @@
+uv intit --python 3.12
