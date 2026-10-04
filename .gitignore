@@ -11,3 +11,14 @@ artifacts/*
 !artifacts/.gitkeep
 data/*
 !data/.gitkeep
+# macOS
+.DS_Store
+
+# JetBrains / PyCharm
+.idea/
+
+# CrewAI runtime files
+.crewai/
+
+# PDFs / reference files
+*.pdf
